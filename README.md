@@ -45,13 +45,13 @@ I'm a full-stack developer at **Intuitive Solutions**. I spend my days on the sy
 
 ## Toolbox
 
-**Frontend** &nbsp; <img src="https://skillicons.dev/icons?i=angular,nextjs,react,ts,tailwind,sass" height="36" alt="Angular, Next.js, React, TypeScript, Tailwind CSS, Sass" />
+<code>frontend</code> &nbsp; <img src="https://skillicons.dev/icons?i=angular,nextjs,react,ts,tailwind,sass" height="36" align="center" alt="Angular, Next.js, React, TypeScript, Tailwind CSS, Sass" />
 
-**Backend** &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,supabase" height="36" alt="Node.js, Express, NestJS, Supabase" />
+<code>backend&nbsp;</code> &nbsp; <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,supabase" height="36" align="center" alt="Node.js, Express, NestJS, Supabase" />
 
-**Data** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis" height="36" alt="PostgreSQL, MongoDB, MySQL, Redis" />
+<code>data&nbsp;&nbsp;&nbsp;&nbsp;</code> &nbsp; <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis" height="36" align="center" alt="PostgreSQL, MongoDB, MySQL, Redis" />
 
-**Ship & test** <img src="https://skillicons.dev/icons?i=docker,nginx,githubactions,netlify,jest,postman" height="36" alt="Docker, NGINX, GitHub Actions, Netlify, Jest, Postman" />
+<code>ship&nbsp;&nbsp;&nbsp;&nbsp;</code> &nbsp; <img src="https://skillicons.dev/icons?i=docker,nginx,githubactions,netlify,jest,postman" height="36" align="center" alt="Docker, NGINX, GitHub Actions, Netlify, Jest, Postman" />
 
 <br />
 
