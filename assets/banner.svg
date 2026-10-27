@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-label="Mahmudul Hassan, full-stack developer. Angular, Next.js and Node.js.">
+  <defs>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="1.5" cy="1.5" r="1.2" fill="#ffffff" fill-opacity="0.06"/>
+    </pattern>
+    <radialGradient id="glow" cx="0.82" cy="0.15" r="0.75">
+      <stop offset="0" stop-color="#F59E0B" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#F59E0B" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="rule" x1="0" x2="1">
+      <stop offset="0" stop-color="#F59E0B"/>
+      <stop offset="1" stop-color="#F59E0B" stop-opacity="0"/>
+    </linearGradient>
+    <style>
+      .mono { font-family: 'SF Mono', 'JetBrains Mono', ui-monospace, Menlo, Consolas, monospace; }
+      .sans { font-family: 'Inter', 'Segoe UI', -apple-system, Helvetica, Arial, sans-serif; }
+      .pulse { animation: pulse 2s ease-in-out infinite; transform-origin: 940px 104px; }
+      .cursor { animation: blink 1.1s steps(1) infinite; }
+      @keyframes pulse { 0%,100% { opacity: 1 } 50% { opacity: .35 } }
+      @keyframes blink { 50% { opacity: 0 } }
+    </style>
+  </defs>
+
+  <rect width="1280" height="320" rx="18" fill="#0B0D12"/>
+  <rect width="1280" height="320" rx="18" fill="url(#dots)"/>
+  <rect width="1280" height="320" rx="18" fill="url(#glow)"/>
+  <rect x="0.5" y="0.5" width="1279" height="319" rx="17.5" fill="none" stroke="#ffffff" stroke-opacity="0.08"/>
+
+  <!-- identity -->
+  <text x="64" y="78" class="mono" font-size="15" fill="#F59E0B" letter-spacing="1.5">~/ariyanssg</text>
+  <text x="196" y="78" class="mono" font-size="15" fill="#6B7280" letter-spacing="1.5">· dhaka, bangladesh</text>
+  <text x="62" y="150" class="sans" font-size="62" font-weight="800" fill="#F3F4F6" letter-spacing="-1.5">Mahmudul Hassan</text>
+  <rect x="64" y="170" width="220" height="3" rx="1.5" fill="url(#rule)"/>
+  <text x="64" y="212" class="sans" font-size="21" fill="#9CA3AF">I build the software hotels, restaurants and businesses run on.</text>
+
+  <!-- stack chips -->
+  <g class="mono" font-size="14">
+    <rect x="64" y="240" width="92" height="32" rx="16" fill="#DD0031" fill-opacity="0.14" stroke="#DD0031" stroke-opacity="0.5"/>
+    <text x="110" y="261" text-anchor="middle" fill="#FCA5B4">Angular</text>
+    <rect x="166" y="240" width="92" height="32" rx="16" fill="#ffffff" fill-opacity="0.06" stroke="#ffffff" stroke-opacity="0.25"/>
+    <text x="212" y="261" text-anchor="middle" fill="#E5E7EB">Next.js</text>
+    <rect x="268" y="240" width="92" height="32" rx="16" fill="#339933" fill-opacity="0.14" stroke="#339933" stroke-opacity="0.55"/>
+    <text x="314" y="261" text-anchor="middle" fill="#86EFAC">Node.js</text>
+    <rect x="370" y="240" width="84" height="32" rx="16" fill="#E0234E" fill-opacity="0.12" stroke="#E0234E" stroke-opacity="0.45"/>
+    <text x="412" y="261" text-anchor="middle" fill="#FDA4AF">NestJS</text>
+    <rect x="464" y="240" width="118" height="32" rx="16" fill="#4169E1" fill-opacity="0.14" stroke="#4169E1" stroke-opacity="0.55"/>
+    <text x="523" y="261" text-anchor="middle" fill="#A5B4FC">PostgreSQL</text>
+    <rect x="592" y="240" width="96" height="32" rx="16" fill="#47A248" fill-opacity="0.14" stroke="#47A248" stroke-opacity="0.55"/>
+    <text x="640" y="261" text-anchor="middle" fill="#A7F3D0">MongoDB</text>
+  </g>
+
+  <!-- status panel -->
+  <g>
+    <rect x="900" y="64" width="316" height="196" rx="14" fill="#11151C" stroke="#ffffff" stroke-opacity="0.1"/>
+    <circle cx="924" cy="84" r="5" fill="#FF5F57"/>
+    <circle cx="942" cy="84" r="5" fill="#FEBC2E"/>
+    <circle cx="960" cy="84" r="5" fill="#28C840"/>
+    <text x="1196" y="89" text-anchor="end" class="mono" font-size="12" fill="#4B5563">status</text>
+    <line x1="900" y1="102" x2="1216" y2="102" stroke="#ffffff" stroke-opacity="0.08"/>
+    <g class="mono" font-size="14">
+      <circle class="pulse" cx="926" cy="126" r="5" fill="#22C55E"/>
+      <text x="940" y="131" fill="#22C55E">open to opportunities</text>
+      <text x="922" y="161" fill="#6B7280">role</text>
+      <text x="1010" y="161" fill="#E5E7EB">full-stack dev</text>
+      <text x="922" y="187" fill="#6B7280">at</text>
+      <text x="1010" y="187" fill="#E5E7EB">Intuitive Solutions</text>
+      <text x="922" y="213" fill="#6B7280">shipping</text>
+      <text x="1010" y="213" fill="#F59E0B">vela, signal404</text>
+      <text x="922" y="243" fill="#F59E0B">&gt;</text>
+      <rect class="cursor" x="938" y="231" width="9" height="16" fill="#F59E0B"/>
+    </g>
+  </g>
+</svg>

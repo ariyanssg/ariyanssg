@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="230" viewBox="0 0 600 230" role="img" aria-label="Signal404: Crawls Google's index for 404 and soft-404 pages, then audits Business Profiles and opening hours.">
+  <defs>
+    <radialGradient id="g" cx="1" cy="0" r="0.9"><stop offset="0" stop-color="#E5484D" stop-opacity="0.18"/><stop offset="1" stop-color="#E5484D" stop-opacity="0"/></radialGradient>
+    <style>.mono{font-family:'SF Mono','JetBrains Mono',ui-monospace,Menlo,Consolas,monospace}.sans{font-family:'Inter','Segoe UI',-apple-system,Helvetica,Arial,sans-serif}
+    .live{animation:p 2s ease-in-out infinite}@keyframes p{50%{opacity:.3}}</style>
+  </defs>
+  <rect width="600" height="230" rx="16" fill="#0B0D12"/>
+  <rect width="600" height="230" rx="16" fill="url(#g)"/>
+  <rect x="0.5" y="0.5" width="599" height="229" rx="15.5" fill="none" stroke="#ffffff" stroke-opacity="0.09"/>
+  <rect x="0" y="28" width="4" height="56" rx="2" fill="#E5484D"/>
+  <text x="32" y="46" class="mono" font-size="13" letter-spacing="1.6" fill="#E5484D">02 · SEO AUDITS</text>
+  <text x="31" y="88" class="sans" font-size="34" font-weight="800" letter-spacing="-0.8" fill="#F3F4F6">Signal404</text>
+  <rect x="502" y="28" width="68" height="26" rx="13" fill="#E5484D" fill-opacity="0.15" stroke="#E5484D" stroke-opacity="0.6"/>
+  <circle class="live" cx="519" cy="41" r="4" fill="#E5484D"/>
+  <text x="530" y="46" class="mono" font-size="12" font-weight="700" fill="#E5484D">LIVE</text>
+  <text x="32" y="124" class="sans" font-size="16" fill="#9CA3AF">Crawls Google's index for 404 and soft-404 pages,</text>
+  <text x="32" y="148" class="sans" font-size="16" fill="#9CA3AF">then audits Business Profiles and opening hours.</text>
+  <rect x="32" y="174" width="108" height="28" rx="8" fill="#ffffff" fill-opacity="0.05" stroke="#ffffff" stroke-opacity="0.12"/>
+  <text x="86.0" y="193" text-anchor="middle" class="mono" font-size="13" fill="#D1D5DB">Playwright</text>
+  <rect x="148" y="174" width="108" height="28" rx="8" fill="#ffffff" fill-opacity="0.05" stroke="#ffffff" stroke-opacity="0.12"/>
+  <text x="202.0" y="193" text-anchor="middle" class="mono" font-size="13" fill="#D1D5DB">TypeScript</text>
+  <rect x="264" y="174" width="75" height="28" rx="8" fill="#ffffff" fill-opacity="0.05" stroke="#ffffff" stroke-opacity="0.12"/>
+  <text x="301.5" y="193" text-anchor="middle" class="mono" font-size="13" fill="#D1D5DB">SQLite</text>
+  <rect x="347" y="174" width="83" height="28" rx="8" fill="#ffffff" fill-opacity="0.05" stroke="#ffffff" stroke-opacity="0.12"/>
+  <text x="388.5" y="193" text-anchor="middle" class="mono" font-size="13" fill="#D1D5DB">Netlify</text>
+</svg>
